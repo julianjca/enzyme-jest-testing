@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unitTest version="1">
+    <file path="/Users/juliananderson/enzyme-jest-testing/src/components/__test__/App.test.js">
+        <testCase name="shows a comment box" duration="21"/>
+        <testCase name="shows a comment list" duration="4"/>
+    </file>
+    <file path="/Users/juliananderson/enzyme-jest-testing/src/components/__test__/CommentBox.test.js">
+        <testCase name="has a text area and a button" duration="49"/>
+        <testCase name="has text area that user can type in" duration="7"/>
+    </file>
+</unitTest>
